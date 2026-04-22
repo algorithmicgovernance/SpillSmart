@@ -1,0 +1,13 @@
+[
+  "fill_ratio_max_72h",
+  "rainfall_max_horizon",
+  "day_of_year_cos",
+  "fill_ratio_max_7d",
+  "time_since_fill_ratio_gt_0.8",
+  "depth_mm",
+  "rainfall_sum_30d",
+  "grnd_hde_acceleration",
+  "rainfall_sum_1h",
+  "grnd_hde_slope_30d",
+  "fill_ratio"
+]

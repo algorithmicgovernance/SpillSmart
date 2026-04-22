@@ -1,0 +1,10 @@
+[
+  "day_of_year_cos",
+  "precipitation_surface",
+  "grnd_hde_smooth",
+  "rain_hde_smooth",
+  "rainfall_sum_7d",
+  "day_of_year_sin",
+  "rainfall_sum_72h",
+  "fill_ratio"
+]

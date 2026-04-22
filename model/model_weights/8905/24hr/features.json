@@ -1,0 +1,9 @@
+[
+  "fill_ratio_mean_24h",
+  "fill_ratio_max_72h",
+  "time_since_fill_ratio_gt_0.8",
+  "fill_ratio_max_7d",
+  "grnd_hde_x_rainfall",
+  "rainfall_sum_7d",
+  "fill_ratio"
+]

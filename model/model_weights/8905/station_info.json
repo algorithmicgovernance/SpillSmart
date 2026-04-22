@@ -1,0 +1,10 @@
+{
+  "type": "flow_monitor",
+  "id": 8905,
+  "alt_id": NaN,
+  "site_name": "FMT1 - GRAYBOURNE",
+  "pipe_diameter_mm": 600.0,
+  "recently_active": "yes",
+  "lat": 50.8355065,
+  "lon": -0.7820423
+}
