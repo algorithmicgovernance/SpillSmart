@@ -1,0 +1,17 @@
+[
+  "fill_ratio_max_72h",
+  "day_of_year_sin",
+  "rainfall_max_horizon",
+  "fill_ratio_mean_24h",
+  "precipitation_surface_cum",
+  "rainfall_intensity_max_1h",
+  "flow_sum_24h",
+  "grnd_hde_smooth",
+  "rainfall_sum_horizon",
+  "fill_ratio_max_7d",
+  "grnd_hde_slope_7d",
+  "time_above_0.8_last_6h",
+  "precipitation_surface",
+  "grnd_hde_acceleration",
+  "fill_ratio"
+]
