@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="Description" width="600">
+<img src="assets/logo.png" alt="Description" width="100%">
 
 ## Overview
 
@@ -337,8 +337,8 @@ python model_pipeline.py --config config.yaml
 
 # Example Interface
 
-<img src="assets/example_1.png" alt="Description" width="600">
+<img src="assets/example_1.png" alt="Description" width="100%">
 
-<img src="assets/example_2.png" alt="Description" width="600">
+<img src="assets/example_2.png" alt="Description" width="100%">
 
-<img src="assets/example_3.png" alt="Description" width="600">
+<img src="assets/example_3.png" alt="Description" width="100%">
