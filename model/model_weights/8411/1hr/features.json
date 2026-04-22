@@ -1,0 +1,5 @@
+[
+  "depth_mm",
+  "time_since_fill_ratio_gt_0.8",
+  "fill_ratio"
+]

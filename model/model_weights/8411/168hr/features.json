@@ -1,0 +1,12 @@
+[
+  "flow_sum_24h",
+  "time_since_fill_ratio_gt_0.8",
+  "day_of_year_sin",
+  "rainfall_max_horizon",
+  "fill_ratio_max_72h",
+  "time_since_fill_ratio_gt_0.7",
+  "fill_ratio_max_7d",
+  "fill_ratio_max_24h",
+  "precipitation_surface",
+  "fill_ratio"
+]
