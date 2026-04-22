@@ -338,10 +338,10 @@ python model_pipeline.py --config config.yaml
 # Example Interface
 
 <img src="assets/example_1.png" alt="Description" width="100%">
-*View flow monitors in user-friendly dashboard.*
+_View flow monitors in user-friendly dashboard_
 
 <img src="assets/example_2.png" alt="Description" width="100%">
-*Watch risk change in real-time (updates every two minutes).*
+_Watch risk change in real-time (updates every two minutes)_
 
 <img src="assets/example_3.png" alt="Description" width="100%">
-*Clean on flow monitor to get specific information about CSO risk, up to 30 days.*
+_Clean on flow monitor to get specific information about CSO risk, up to 30 days_
