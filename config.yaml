@@ -1,0 +1,41 @@
+paths:
+  chalk_rivers_csv: data/chalk_rivers/chalk_rivers_with_elevation.csv
+  hde_root: data/hde
+  gefs_analysis_csv: data/gefs/gefs_analysis.csv
+  southern_water_flow_csv: data/southern_water/processed/fdv.csv
+  southern_water_monitors_csv: data/southern_water/processed/monitors.csv
+  model_root: model/model_weights
+
+gefs:
+  coordinates:
+    - [50.84, -0.77]
+
+chalk_columns:
+  date_time: dateTime
+  chalk_station_name: chalk_station_name
+  is_rainfall: is_rainfall
+  distance_m: distance_m
+  upstream: upstream
+  station_index: station_index
+  latitude: latitude
+  longitude: longitude
+
+southern_water:
+  raw_downloads_dir: data/southern_water/raw/downloads
+  unzipped_dir: data/southern_water/raw/unzipped
+  combined_dir: data/southern_water/raw/combined
+  processed_dir: data/southern_water/processed
+  monitors_path: data/southern_water/processed/monitors.csv
+
+modeling:
+  horizons_hours: [1, 6, 24, 168, 720]
+  threshold: 0.95
+  alpha: 0.10
+  test_frac: 0.2
+  n_splits: 5
+  random_state: 42
+  freq_minutes: 2
+  baseline_hours: 24
+  percentile_window_hours: 24
+  surcharge_threshold: 0.9
+  high_flow_quantile: 0.9
