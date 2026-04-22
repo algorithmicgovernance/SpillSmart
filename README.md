@@ -1,6 +1,6 @@
-# SpillSmart
-
 <img src="assets/logo.png" alt="Description" width="600">
+
+# SpillSmart
 
 ## Overview
 
