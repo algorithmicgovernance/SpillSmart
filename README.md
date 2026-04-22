@@ -1,5 +1,7 @@
 # SpillSmart
 
+<img src="assets/logo.png" alt="Description" width="600">
+
 ## Overview
 
 This repository implements a **multi-horizon probabilistic forecasting system** for Combined Sewer Overflow (CSO) risk at flow monitoring stations.
