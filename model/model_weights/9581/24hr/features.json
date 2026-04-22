@@ -1,0 +1,8 @@
+[
+  "rainfall_max_horizon",
+  "fill_ratio_mean_24h",
+  "day_of_week",
+  "time_since_fill_ratio_gt_0.7",
+  "day_of_year_sin",
+  "fill_ratio"
+]

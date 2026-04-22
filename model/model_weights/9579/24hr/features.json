@@ -1,0 +1,13 @@
+[
+  "fill_ratio_max_24h",
+  "flow_sum_24h",
+  "depth_slope_10min",
+  "rain_hde_smooth",
+  "grnd_hde_slope_24h",
+  "grnd_hde",
+  "depth_slope_30min",
+  "d_depth_dt",
+  "depth_acceleration",
+  "grnd_hde_slope_30d",
+  "fill_ratio"
+]

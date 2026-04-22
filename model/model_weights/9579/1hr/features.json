@@ -1,0 +1,8 @@
+[
+  "depth_mm",
+  "hour_of_day_cos",
+  "depth_slope_30min",
+  "hour_of_day_sin",
+  "fill_ratio_max_24h",
+  "fill_ratio"
+]

@@ -1,0 +1,9 @@
+[
+  "rainfall_sum_24h",
+  "rainfall_max_horizon",
+  "day_of_week",
+  "rainfall_sum_72h",
+  "flow_sum_24h",
+  "fill_ratio_mean_24h",
+  "fill_ratio"
+]

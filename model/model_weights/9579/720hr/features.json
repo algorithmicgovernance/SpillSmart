@@ -1,0 +1,10 @@
+[
+  "fill_ratio_max_1h",
+  "depth_range_1h",
+  "rainfall_sum_30min",
+  "grnd_hde",
+  "rainfall_intensity_max_1h",
+  "grnd_hde_slope_1h",
+  "grnd_hde_x_rainfall",
+  "fill_ratio"
+]

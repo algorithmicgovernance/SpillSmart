@@ -1,0 +1,14 @@
+[
+  "hour_of_day_cos",
+  "hour_of_day_sin",
+  "rainfall_sum_24h",
+  "depth_mm",
+  "fill_ratio_x_rainfall_1h",
+  "rainfall_sum_72h",
+  "rainfall_max_horizon",
+  "flow_sum_24h",
+  "flow_sum_6h",
+  "depth_percentile",
+  "depth_slope_30min",
+  "fill_ratio"
+]

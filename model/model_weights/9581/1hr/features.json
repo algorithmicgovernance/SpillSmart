@@ -1,0 +1,7 @@
+[
+  "rainfall_sum_7d",
+  "rainfall_sum_24h",
+  "hour_of_day_sin",
+  "depth_percentile",
+  "fill_ratio"
+]
