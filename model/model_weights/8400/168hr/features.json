@@ -1,0 +1,10 @@
+[
+  "rainfall_max_horizon",
+  "depth_mm",
+  "day_of_year_cos",
+  "rainfall_sum_30d",
+  "precipitation_surface_cum",
+  "grnd_hde_smooth",
+  "rainfall_sum_horizon",
+  "fill_ratio"
+]
