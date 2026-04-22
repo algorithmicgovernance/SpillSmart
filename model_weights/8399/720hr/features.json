@@ -1,0 +1,11 @@
+[
+  "rainfall_max_horizon",
+  "day_of_year_cos",
+  "rainfall_sum_6h",
+  "day_of_year_sin",
+  "time_since_fill_ratio_gt_0.7",
+  "precipitation_surface_cum",
+  "grnd_hde_slope_30d",
+  "rainfall_sum_7d",
+  "fill_ratio"
+]
