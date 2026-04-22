@@ -1,0 +1,7 @@
+[
+  "depth_mm",
+  "rainfall_sum_30d",
+  "time_above_0.8_last_6h",
+  "fill_ratio_max_24h",
+  "fill_ratio"
+]

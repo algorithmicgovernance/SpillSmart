@@ -1,0 +1,9 @@
+[
+  "fill_ratio_mean_24h",
+  "rainfall_max_horizon",
+  "rainfall_sum_24h",
+  "velocity_m_s",
+  "velocity_x_depth",
+  "time_above_0.8_last_6h",
+  "fill_ratio"
+]

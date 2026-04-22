@@ -1,0 +1,8 @@
+[
+  "depth_mm",
+  "hour_of_day_cos",
+  "rainfall_max_horizon",
+  "hour_of_day_sin",
+  "velocity_m_s",
+  "fill_ratio"
+]
