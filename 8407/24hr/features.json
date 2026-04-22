@@ -1,7 +1,0 @@
-[
-  "rainfall_max_horizon",
-  "depth_mm",
-  "precipitation_surface_cum",
-  "time_since_fill_ratio_gt_0.8",
-  "fill_ratio"
-]
