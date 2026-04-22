@@ -1,9 +1,0 @@
-[
-  "depth_mm",
-  "precipitation_surface_cum",
-  "fill_ratio_max_72h",
-  "rainfall_sum_1h",
-  "rain_hde_smooth",
-  "time_above_0.8_last_6h",
-  "fill_ratio"
-]
