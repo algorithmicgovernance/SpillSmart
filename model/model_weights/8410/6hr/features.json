@@ -1,0 +1,8 @@
+[
+  "depth_mm",
+  "rainfall_max_horizon",
+  "grnd_hde_smooth",
+  "flow_sum_24h",
+  "precipitation_surface_cum",
+  "fill_ratio"
+]

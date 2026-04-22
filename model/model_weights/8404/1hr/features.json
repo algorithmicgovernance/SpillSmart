@@ -1,0 +1,10 @@
+[
+  "rainfall_sum_6h",
+  "depth_mm",
+  "precipitation_surface_cum",
+  "rainfall_intensity_max_1h",
+  "day_of_year_cos",
+  "rain_hde_smooth",
+  "precipitation_surface",
+  "fill_ratio"
+]

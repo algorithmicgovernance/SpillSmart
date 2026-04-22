@@ -1,0 +1,10 @@
+[
+  "rainfall_max_horizon",
+  "grnd_hde_smooth",
+  "day_of_year_cos",
+  "rainfall_sum_horizon",
+  "fill_ratio_mean_24h",
+  "rainfall_sum_30d",
+  "rain_hde_smooth",
+  "fill_ratio"
+]

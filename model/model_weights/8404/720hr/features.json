@@ -1,0 +1,9 @@
+[
+  "rainfall_max_horizon",
+  "grnd_hde_slope_30d",
+  "grnd_hde_slope_24h",
+  "rain_hde_lag_1h",
+  "rain_hde",
+  "day_of_year_cos",
+  "fill_ratio"
+]

@@ -1,0 +1,10 @@
+{
+  "station_id": "8404",
+  "horizon_hours": 720,
+  "threshold": 0.95,
+  "alpha": 0.1,
+  "conformal_threshold": 4.2347405942111394e-05,
+  "created_at_utc": "2026-04-19T19:11:50.182927+00:00",
+  "n_models": 5,
+  "performance_sentence_source": "ConformalEnsemble"
+}
