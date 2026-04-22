@@ -1,0 +1,11 @@
+[
+  "time_since_fill_ratio_gt_0.8",
+  "rainfall_max_horizon",
+  "fill_ratio_max_24h",
+  "depth_mm",
+  "rain_hde_smooth",
+  "rainfall_sum_3h",
+  "day_of_week",
+  "rainfall_intensity_max_1h",
+  "fill_ratio"
+]

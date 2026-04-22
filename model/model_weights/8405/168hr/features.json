@@ -1,0 +1,7 @@
+[
+  "depth_mm",
+  "rainfall_sum_horizon",
+  "rainfall_max_horizon",
+  "day_of_year_cos",
+  "fill_ratio"
+]

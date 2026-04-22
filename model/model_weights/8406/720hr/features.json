@@ -1,0 +1,11 @@
+[
+  "day_of_year_cos",
+  "rainfall_max_horizon",
+  "rainfall_intensity_max_1h",
+  "precipitation_surface",
+  "rainfall_sum_30d",
+  "rainfall_sum_horizon",
+  "fill_ratio_max_72h",
+  "time_since_fill_ratio_gt_0.7",
+  "fill_ratio"
+]
