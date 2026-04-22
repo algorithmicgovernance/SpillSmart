@@ -1,0 +1,13 @@
+[
+  "depth_mm",
+  "flow_mean_1h",
+  "rainfall_sum_30d",
+  "rainfall_sum_24h",
+  "hour_of_day_cos",
+  "hour_of_day_sin",
+  "depth_percentile",
+  "day_of_year_sin",
+  "precipitation_surface_cum",
+  "rain_hde_smooth",
+  "fill_ratio"
+]

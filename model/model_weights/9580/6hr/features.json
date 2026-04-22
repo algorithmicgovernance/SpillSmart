@@ -1,0 +1,9 @@
+[
+  "depth_mm",
+  "precipitation_surface_cum",
+  "rainfall_max_horizon",
+  "hour_of_day_sin",
+  "rain_hde_smooth",
+  "rainfall_sum_24h",
+  "fill_ratio"
+]

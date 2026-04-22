@@ -1,0 +1,12 @@
+,,Persistence,EnsembleClassifier,ConformalEnsemble
+continuous_metrics,MAE,0.14195513781505997,,
+continuous_metrics,MSE,0.027651680188956456,,
+exceedance_metrics,MAE,0.31948020505218955,0.31948020505218955,0.31948020505218955
+exceedance_metrics,MSE,0.10465025515484659,0.10465025515484659,0.10465025515484659
+exceedance_metrics,Brier,0.10465025515484659,0.10465025515484659,0.10465025515484659
+exceedance_metrics,PR_AUC,0.0,0.0,0.0
+exceedance_metrics,ROC_AUC,,,
+exceedance_metrics,Precision,0.0,0.0,0.0
+exceedance_metrics,Recall,0.0,0.0,0.0
+exceedance_metrics,F1,0.0,0.0,0.0
+exceedance_metrics,Specificity,1.0,0.998871426886991,0.998871426886991

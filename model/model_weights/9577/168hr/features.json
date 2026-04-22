@@ -1,0 +1,8 @@
+[
+  "rainfall_sum_24h",
+  "fill_ratio_max_7d",
+  "flow_x_rainfall",
+  "grnd_hde_slope_7d",
+  "normalized_flow",
+  "fill_ratio"
+]

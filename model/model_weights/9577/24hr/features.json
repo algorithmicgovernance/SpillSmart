@@ -1,0 +1,10 @@
+[
+  "rainfall_max_horizon",
+  "rainfall_sum_72h",
+  "fill_ratio_mean_24h",
+  "day_of_year_sin",
+  "rainfall_sum_30d",
+  "flow_sum_6h",
+  "rainfall_intensity_max_1h",
+  "fill_ratio"
+]

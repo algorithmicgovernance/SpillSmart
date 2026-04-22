@@ -1,0 +1,12 @@
+[
+  "velocity_m_s",
+  "hour_of_day_cos",
+  "depth_slope_1h",
+  "grnd_hde_slope_30d",
+  "depth_slope_10min",
+  "depth_acceleration",
+  "grnd_hde_slope_6h",
+  "d_depth_dt",
+  "fill_ratio_std_1h",
+  "fill_ratio"
+]

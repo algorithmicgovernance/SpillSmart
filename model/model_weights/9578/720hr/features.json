@@ -1,0 +1,7 @@
+[
+  "time_since_fill_ratio_gt_0.8",
+  "precipitation_surface_cum",
+  "day_of_year_cos",
+  "time_since_fill_ratio_gt_0.7",
+  "fill_ratio"
+]

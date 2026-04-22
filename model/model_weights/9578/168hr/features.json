@@ -1,0 +1,10 @@
+[
+  "time_since_fill_ratio_gt_0.7",
+  "rainfall_max_horizon",
+  "rainfall_sum_7d",
+  "grnd_hde_smooth",
+  "fill_ratio_mean_24h",
+  "rainfall_sum_30d",
+  "fill_ratio_max_7d",
+  "fill_ratio"
+]

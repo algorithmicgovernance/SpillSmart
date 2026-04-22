@@ -1,0 +1,10 @@
+[
+  "fill_ratio_max_24h",
+  "rainfall_max_horizon",
+  "precipitation_surface_cum",
+  "grnd_hde_smooth",
+  "rainfall_sum_7d",
+  "day_of_year_cos",
+  "time_since_fill_ratio_gt_0.8",
+  "fill_ratio"
+]
