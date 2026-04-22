@@ -1,0 +1,9 @@
+[
+  "fill_ratio_mean_24h",
+  "flow_sum_24h",
+  "precipitation_surface_cum",
+  "rainfall_max_horizon",
+  "rainfall_sum_7d",
+  "fill_ratio_max_7d",
+  "fill_ratio"
+]

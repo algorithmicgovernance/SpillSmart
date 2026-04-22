@@ -1,0 +1,7 @@
+[
+  "precipitation_surface_cum",
+  "rainfall_sum_horizon",
+  "flow_sum_24h",
+  "day_of_year_cos",
+  "fill_ratio"
+]
