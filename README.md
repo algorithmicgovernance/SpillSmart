@@ -40,7 +40,7 @@ Predicting CSO exceedance probability is preferred operationally because:
 * It enables calibrated probabilistic outputs, allowing risk to be expressed in a consistent and interpretable way
 * It scales efficiently across networks and multiple forecast horizons, making it suitable for large operational deployments
 
-While full depth trajectory forecasting provides richer detail, it is generally less stable, harder to interpret, and less directly actionable for real-world CSO management
+Though full depth trajectory forecasting (e.g. a time series) provides richer detail, it is generally less stable, harder to interpret, and less directly actionable for real-world CSO management
 
 ---
 
