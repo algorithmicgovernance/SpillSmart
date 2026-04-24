@@ -32,6 +32,16 @@ where:
   fill_ratio_target > threshold (default = 0.95)
   ```
 
+Predicting CSO exceedance probability is preferred operationally because it:
+
+* Predicting CSO exceedance probability aligns directly with operational decisions, as water companies act on the likelihood of overflow events rather than raw depth values
+* It focuses on the physically relevant extreme by targeting peak behaviour, which is what actually drives CSO occurrence
+* It is more robust to timing errors and rainfall forecast uncertainty, avoiding sensitivity to small misalignments in when peaks occur
+* It enables calibrated probabilistic outputs, allowing risk to be expressed in a consistent and interpretable way
+* It scales efficiently across networks and multiple forecast horizons, making it suitable for large operational deployments
+
+While full depth trajectory forecasting provides richer detail, it is generally less stable, harder to interpret, and less directly actionable for real-world CSO management
+
 ---
 
 # Pipeline Structure
