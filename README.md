@@ -133,6 +133,8 @@ kept_features = [...]
 
 ## 4. Model Training (`build_cso_model`)
 
+<img src="assets/model_diagram.png" width="100%">
+
 ### Model type
 
 * **LightGBM binary classifier**
